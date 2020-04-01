@@ -1,7 +1,7 @@
 # killpvz
 植物大战僵尸自动收集阳光，修改阳光
 
- 
+ 最终效果：
 ![Image text](images/1.png)
 1.找call大法
 
